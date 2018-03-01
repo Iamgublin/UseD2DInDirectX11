@@ -2,6 +2,9 @@
 =============
 Main Content
 ---------------
+Direct2D与Direct3D混合编程的资料较少，这部分代码展示了如何进行Direct2D和Direct3D混合编程
+
+
 This code show how to use Direct2D In Direct3D
 
 
